@@ -1,0 +1,38 @@
+[
+  {
+    "title": "وب‌سایت زروران",
+    "category": "وب‌سایت تجاری",
+    "technologies": ["Next.js", "TypeScript", "Tailwind", "Framer Motion"],
+    "description": "معماری مدرن وب‌سایت برای کسب‌وکارهای کاشی و سرامیک با تمرکز بر سئو و سرعت.",
+    "features": ["صفحات بهینه‌شده برای سئو", "گالری نمونه کار", "طراحی واکنش‌گرا"],
+    "slug": "zervan-website",
+    "image": "/assets/zervan.jpg"
+  },
+  {
+    "title": "مدیریت‌کننده انیمه",
+    "category": "اپلیکیشن اندروید",
+    "technologies": ["Java", "Android SDK", "REST API"],
+    "description": "اپلیکیشن سازماندهی مجموعه‌های انیمه با قابلیت جستجو و دسته‌بندی پیشرفته.",
+    "features": ["پایگاه داده محلی", "سیستم جستجوی هوشمند", "ذخیره‌سازی آفلاین"],
+    "slug": "anime-organizer",
+    "image": "/assets/anime.jpg"
+  },
+  {
+    "title": "خودکارسازی تلگرام",
+    "category": "خودکارسازی (Automation)",
+    "technologies": ["Python", "Telegram API", "Asyncio"],
+    "description": "ربات‌های پیشرفته تلگرام برای پردازش پیام، استخراج داده و خودکارسازی گردش کار.",
+    "features": ["پردازش پیام بلادرنگ", "استخراج داده", "گردش کار خودکار"],
+    "slug": "telegram-automation",
+    "image": "/assets/telegram-bot.jpg"
+  },
+  {
+    "title": "ادغام TDLib",
+    "category": "ارتباطات موبایل",
+    "technologies": ["Android", "TDLib", "JNI", "C++"],
+    "description": "پیاده‌سازی کلاینت سفارشی تلگرام با استفاده از کتابخانه‌های بومی و معماری موبایل پیشرفته.",
+    "features": ["ادغام کلاینت تلگرام", "استفاده از کتابخانه بومی", "معماری بهینه موبایل"],
+    "slug": "tdlib-integration",
+    "image": "/assets/tdlib.jpg"
+  }
+]
